@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/v2/gh/Eumaeus/covid-data/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/covid-data/master?filepath=index.ipynb)
 
 # Personal COVID-19 Data
 
