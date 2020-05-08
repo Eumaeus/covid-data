@@ -11,6 +11,11 @@ Data is drawn from:
 - [“Stats of the State of South Carolina”, CDC](https://www.cdc.gov/nchs/pressroom/states/southcarolina/southcarolina.htm)
 - [South Carolina Department of Health and Environmental Control (DHEC)](https://www.scdhec.gov/vital-records/parentage/sc-vital-records-data-and-statistics)
 - [The Office of National Statistics, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales)
+- [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
+
+To run the International notebook, do, at the top level of this directlry:
+
+    git clone https://github.com/CSSEGISandData/COVID-19.git
 
 These notebooks use the [Almond kernel](https://almond.sh/).  You can run a notebook server with the Almond kernel using a docker container like this:
 
