@@ -28,7 +28,7 @@ Missouri,6137428,republican,2020-04-06,2020-05-04,none
 Montana,1068778,republican,2020-03-28,none,2020-04-27
 Nebraska,1934408,republican,none,none,none
 Nevada,3080156,democrat,2020-04-01,none,none
-New Hampshire,1359711,democrat,2020-03-27,none,none
+New Hampshire,1359711,democrat,2020-03-27,2020-05-11,none
 New Jersey,8882190,democrat,2020-03-21,none,none
 New Mexico,2096829,democrat,2020-03-24,none,none
 New York,19453561,democrat,2020-03-22,none,none
@@ -36,9 +36,9 @@ North Carolina,10488084,democrat,2020-03-30,2020-05-08,none
 North Dakota,762062,republican,none,none,none
 Ohio,11689100,republican,2020-03-23,2020-05-04,none
 Oklahoma,3956971,republican,none,2020-03-01,none
-Oregon,4217737,democrat,2020-03-23,none,none
+Oregon,4217737,democrat,2020-03-23,2020-05-15,none
 Pennsylvania,12801989,democrat,2020-04-01,2020-05-08,none
-Rhode Island,1059361,democrat,2020-03-28,2020-05-08
+Rhode Island,1059361,democrat,2020-03-28,2020-05-08,none
 South Carolina,5148714,republican,2020-04-07,none,2020-04-20
 South Dakota,884659,republican,none,none,none
 Tennessee,6829174,republican,2020-03-31,2020-04-27,none
@@ -47,6 +47,6 @@ Utah,3205958,republican,none,2020-05-01,none
 Vermont,623989,democrat,2020-03-25,none,none
 Virginia,8535519,democrat,2020-03-25,none,none
 Washington,7614893,democrat,2020-03-23,none,none
-West Virginia,1792147,democrat,2020-03-24,2020-05-4,none
-Wisconsin,5822434,democrat,2020-03-25,none,none
+West Virginia,1792147,republican,2020-03-24,2020-05-4,none
+Wisconsin,5822434,democrat,2020-03-25,2020-05-14,none
 Wyoming,578759,republican,none,2020-05-01,none
