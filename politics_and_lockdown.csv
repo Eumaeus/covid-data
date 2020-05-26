@@ -1,52 +1,52 @@
 ﻿state,population,politics,total-lockdown,partial-lockdown,opening
-Alabama,4903185,republican,2020-04-04,2020-04-30,none
-Alaska,731545,republican,2020-03-28,2020-04-24,none
-Arizona,7278717,republican,none,2020-03-31,none
-Arkansas,3017804,republican,none,none,none
-California,39512223,democrat,2020-03-19,none,none
-Colorado,5758736,democrat,2020-03-26,2020-04-27,none
-Connecticut,3565287,democrat,2020-03-23,none,none
-Delaware,973764,democrat,2020-02-24,none,none
+Alabama,4903185,republican,2020-04-04,2020-04-30,2020-05-11
+Alaska,731545,republican,2020-03-28,2020-04-24,2020-05-22
+Arizona,7278717,republican,none,2020-03-31,2020-05-11
+Arkansas,3017804,republican,none,2020-04-01,2020-05-06
+California,39512223,democrat,2020-03-19,2020-05-11,none
+Colorado,5758736,democrat,2020-03-26,2020-04-27,2020-05-01
+Connecticut,3565287,democrat,2020-03-23,2020-05-20,none
+Delaware,973764,democrat,2020-03-24,none,none
 District of Columbia,705749,democrat,2020-03-27,none,none
-Florida,21477737,republican,2020-04-01,2020-05-04,none
+Florida,21477737,republican,2020-04-01,2020-05-04,2020-05-18
 Georgia,10617423,republican,2020-04-03,none,2020-04-24
-Hawaii,1415872,democrat,2020-03-22,2020-05-07,none
-Idaho,1787065,republican,2020-03-25,2020-04-30,none
+Hawaii,1415872,democrat,2020-03-22,2020-05-07,2020-05-31
+Idaho,1787065,republican,2020-03-25,2020-04-30,2020-05-01
 Illinois,12671821,democrat,2020-03-21,2020-05-01,none
-Indiana,6732219,republican,2020-03-23,2020-05-04,none
-Iowa,3155070,republican,none,none,none
-Kansas,2913314,republican,2020-03-30,2020-05-04,none
-Kentucky,4467673,republican,2020-03-26,none,none
-Louisiana,4648794,louisiana,2020-03-23,none,none
+Indiana,6732219,republican,2020-03-23,2020-05-04,2020-05-11
+Iowa,3155070,republican,none,2020-04-01,2020-05-28
+Kansas,2913314,republican,2020-03-30,2020-05-04,2020-05-18
+Kentucky,4467673,republican,2020-03-26,2020-05-11,2020-05-25
+Louisiana,4648794,louisiana,2020-03-23,2020-05-15,2020-05-25
 Maine,1344212,republican,2020-04-02,2020-04-30,none
-Maryland,6045680,democrat,2020-03-30,none,none
-Massachusetts,6892503,democrat,2020-03-23,none,none
-Michigan,9986857,democrat,2020-03-24,none,none
-Minnesota,5639632,democrat,2020-03-25,none,none
-Mississippi,2976149,republican,2020-04-3,2020-04-27,none
-Missouri,6137428,republican,2020-04-06,2020-05-04,none
-Montana,1068778,republican,2020-03-28,none,2020-04-27
+Maryland,6045680,democrat,2020-03-30,2020-05-15,none
+Massachusetts,6892503,democrat,2020-03-23,2020-05-25,none
+Michigan,9986857,democrat,2020-03-24,2020-05-22,none
+Minnesota,5639632,democrat,2020-03-25,2020-05-17,none
+Mississippi,2976149,republican,2020-04-03,2020-05-07,none
+Missouri,6137428,republican,2020-04-06,none,2020-05-04
+Montana,1068778,republican,2020-03-28,2020-04-27,2020-05-04
 Nebraska,1934408,republican,none,none,none
-Nevada,3080156,democrat,2020-04-01,none,none
-New Hampshire,1359711,democrat,2020-03-27,2020-05-11,none
+Nevada,3080156,democrat,2020-04-01,none,2020-05-09
+New Hampshire,1359711,democrat,2020-03-27,2020-05-11,2020-05-25
 New Jersey,8882190,democrat,2020-03-21,none,none
-New Mexico,2096829,democrat,2020-03-24,none,none
+New Mexico,2096829,democrat,2020-03-24,2020-05-16,none
 New York,19453561,democrat,2020-03-22,none,none
-North Carolina,10488084,democrat,2020-03-30,2020-05-08,none
-North Dakota,762062,republican,none,none,none
-Ohio,11689100,republican,2020-03-23,2020-05-04,none
-Oklahoma,3956971,republican,none,2020-03-01,none
+North Carolina,10488084,democrat,2020-03-30,2020-05-08,2020-05-22
+North Dakota,762062,republican,none,2020-04-01,2020-05-01
+Ohio,11689100,republican,2020-03-23,2020-05-12,none
+Oklahoma,3956971,republican,2020-03-01,2020-04-24,2020-05-01
 Oregon,4217737,democrat,2020-03-23,2020-05-15,none
 Pennsylvania,12801989,democrat,2020-04-01,2020-05-08,none
 Rhode Island,1059361,democrat,2020-03-28,2020-05-08,none
-South Carolina,5148714,republican,2020-04-07,none,2020-04-20
+South Carolina,5148714,republican,2020-04-07,2020-04-20,2020-05-04
 South Dakota,884659,republican,none,none,none
-Tennessee,6829174,republican,2020-03-31,2020-04-27,none
-Texas,28995881,republican,2020-04-2,2020-04-30,none
-Utah,3205958,republican,none,2020-05-01,none
-Vermont,623989,democrat,2020-03-25,none,none
-Virginia,8535519,democrat,2020-03-25,none,none
-Washington,7614893,democrat,2020-03-23,none,none
-West Virginia,1792147,republican,2020-03-24,2020-05-4,none
-Wisconsin,5822434,democrat,2020-03-25,2020-05-14,none
-Wyoming,578759,republican,none,2020-05-01,none
+Tennessee,6829174,republican,2020-03-31,2020-04-27,2020-05-06
+Texas,28995881,republican,2020-04-02,2020-04-30,2020-05-01
+Utah,3205958,republican,none,2020-05-01,2020-05-16
+Vermont,623989,democrat,2020-03-25,2020-05-18,none
+Virginia,8535519,democrat,2020-03-25,2020-05-15,none
+Washington,7614893,democrat,2020-03-23,2020-05-11,none
+West Virginia,1792147,republican,2020-03-24,2020-05-04,none
+Wisconsin,5822434,democrat,2020-03-25,2020-05-14,2020-05-13
+Wyoming,578759,republican,none,2020-05-01,2020-05-13
