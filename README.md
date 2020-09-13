@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eumaeus/covid-data/master?filepath=index.ipynb)
 
-# Personal COVID-19 Data
+# Personal COVID-19 Data and Model
 
 This a project of my personal curiosity about COVID-19 and what context and perspective we can get from responsible, public data.
 
@@ -12,10 +12,6 @@ Data is drawn from:
 - [South Carolina Department of Health and Environmental Control (DHEC)](https://www.scdhec.gov/vital-records/parentage/sc-vital-records-data-and-statistics)
 - [The Office of National Statistics, UK](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales)
 - [2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-
-To run the International notebook, do, at the top level of this directlry:
-
-    git clone https://github.com/CSSEGISandData/COVID-19.git
 
 These notebooks use the [Almond kernel](https://almond.sh/).  You can run a notebook server with the Almond kernel using a docker container like this:
 
