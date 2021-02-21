@@ -17,7 +17,7 @@ These notebooks use the [Almond kernel](https://almond.sh/).  You can run a note
 
     docker run -it --rm -p 8888:8888 almondsh/almond:0.9.0
 
-You can also work interactively with these notebooks on [mybinder.org](http://localhost:8888/?token=5a251f9b9c551ace50591064574607ab7550c59779a8984b).
+You can also work interactively with these notebooks on [mybinder.org](https://mybinder.org/v2/gh/Eumaeus/covid-data/master?filepath=index.ipynb).
 
 If you have Jupyter Notebooks installed locally, with the Almond kernal, you can run this with:
 
